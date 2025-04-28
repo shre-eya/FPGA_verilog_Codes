@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+Time = 0 | Q = 1010 | M = 0011 | A = 0001 | Q_out = 0011
+Time = 10000 | Q = 0110 | M = 0010 | A = 0000 | Q_out = 0011
+Time = 20000 | Q = 1111 | M = 0100 | A = 0011 | Q_out = 0011
+$finish called at time : 30 ns : File "C:/FPGA_lab/lab/nonrestoring_division_algorithm/nonrestoring_division_algorithm.srcs/sim_1/new/tb.v" Line 46

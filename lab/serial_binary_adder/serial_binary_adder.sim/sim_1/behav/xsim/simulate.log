@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+Time=0 | A=1010 | B=1100 | State=00 | Sum=0 | Carry=0
+Time=15000 | A=1010 | B=1100 | State=00 | Sum=1 | Carry=0
+Time=35000 | A=1010 | B=1100 | State=01 | Sum=0 | Carry=1
+$finish called at time : 40 ns : File "C:/FPGA_lab/lab/serial_binary_adder/serial_binary_adder.srcs/sim_1/new/sim.v" Line 43

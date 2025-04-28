@@ -1,0 +1,8 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/FPGA_lab/theory/2bit_using1bit/2bit_using1bit.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+C:/FPGA_lab/theory/2bit_using1bit/2bit_using1bit.srcs/sim_1/new/two_bit_tb.v,1734349312,verilog,,,,two_bit_tb,,,,,,,,
+C:/FPGA_lab/theory/2bit_using1bit/2bit_using1bit.srcs/sources_1/new/one_bit.v,1734349458,verilog,,C:/FPGA_lab/theory/2bit_using1bit/2bit_using1bit.srcs/sources_1/new/two_bit.v,,one_bit,,,,,,,,
+C:/FPGA_lab/theory/2bit_using1bit/2bit_using1bit.srcs/sources_1/new/two_bit.v,1734350153,verilog,,C:/FPGA_lab/theory/2bit_using1bit/2bit_using1bit.srcs/sim_1/new/two_bit_tb.v,,two_bit,,,,,,,,

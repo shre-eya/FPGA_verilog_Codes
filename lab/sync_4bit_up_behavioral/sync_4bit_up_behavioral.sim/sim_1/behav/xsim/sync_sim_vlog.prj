@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../sync_4bit_up_behavioral.srcs/sources_1/new/sync_4bit.v" \
+"../../../../sync_4bit_up_behavioral.srcs/sim_1/new/sync_sim.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

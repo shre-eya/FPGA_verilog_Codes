@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Mon Mar  3 23:28:03 2025
+# Process ID: 1712
+# Current directory: C:/FPGA_lab/lab/modified_booth/modified_booth.runs/impl_1
+# Command line: vivado.exe -log modifeid_booth.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source modifeid_booth.tcl -notrace
+# Log file: C:/FPGA_lab/lab/modified_booth/modified_booth.runs/impl_1/modifeid_booth.vdi
+# Journal file: C:/FPGA_lab/lab/modified_booth/modified_booth.runs/impl_1\vivado.jou
+# Running On        :Shreeya_k
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :26100
+# Processor Detail  :11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+# CPU Frequency     :2419 MHz
+# CPU Physical cores:4
+# CPU Logical cores :8
+# Host memory       :16905 MB
+# Swap memory       :6442 MB
+# Total Virtual     :23348 MB
+# Available Virtual :5179 MB
+#-----------------------------------------------------------
+source modifeid_booth.tcl -notrace

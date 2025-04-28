@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1741024672">
+  <File Type="ROUTE-PWR" Name="modifeid_booth_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="modifeid_booth.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="modifeid_booth_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="modifeid_booth_reports.tcl"/>
+  <File Type="OPT-RQA-PB" Name="modifeid_booth_rqa_opted.pb"/>
+  <File Type="BITSTR-MMI" Name="modifeid_booth.mmi"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="modifeid_booth_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="modifeid_booth_timing_summary_init.rpt"/>
+  <File Type="OPT-TIMING" Name="modifeid_booth_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="modifeid_booth_opt.dcp"/>
+  <File Type="OPT-DRC" Name="modifeid_booth_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="modifeid_booth.hwdef"/>
+  <File Type="PWROPT-DCP" Name="modifeid_booth_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="modifeid_booth_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="modifeid_booth_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="modifeid_booth_placed.dcp"/>
+  <File Type="PLACE-IO" Name="modifeid_booth_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="modifeid_booth_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="modifeid_booth_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="modifeid_booth_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="modifeid_booth_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="modifeid_booth_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="modifeid_booth_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BIN" Name="modifeid_booth.bin"/>
+  <File Type="PLACE-TIMING" Name="modifeid_booth_timing_summary_placed.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="modifeid_booth_power_routed.rpx"/>
+  <File Type="PLACE-RQA-PB" Name="modifeid_booth_rqa_placed.pb"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="modifeid_booth_postplace_pwropt.dcp"/>
+  <File Type="BITSTR-MSK" Name="modifeid_booth.msk"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="modifeid_booth_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="modifeid_booth_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="modifeid_booth_drc_physopted.rpt"/>
+  <File Type="BITSTR-RBT" Name="modifeid_booth.rbt"/>
+  <File Type="PHYSOPT-TIMING" Name="modifeid_booth_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="modifeid_booth_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="modifeid_booth_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="modifeid_booth_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="modifeid_booth_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="modifeid_booth_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="modifeid_booth_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="modifeid_booth_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="modifeid_booth_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="modifeid_booth_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-RQS-PB" Name="modifeid_booth_rqs_routed.pb"/>
+  <File Type="ROUTE-STATUS" Name="modifeid_booth_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="modifeid_booth_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="modifeid_booth_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="modifeid_booth_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="modifeid_booth_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="modifeid_booth_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="modifeid_booth_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="modifeid_booth_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="modifeid_booth_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="modifeid_booth_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="modifeid_booth_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="modifeid_booth_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="modifeid_booth_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="modifeid_booth_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="modifeid_booth_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="modifeid_booth_bus_skew_postroute_physopted.rpt"/>
+  <File Type="BG-BIT" Name="modifeid_booth.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="modifeid_booth_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="modifeid_booth_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-NKY" Name="modifeid_booth.nky"/>
+  <File Type="BITSTR-BMM" Name="modifeid_booth_bd.bmm"/>
+  <File Type="PDI-FILE" Name="modifeid_booth.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="modifeid_booth_boot.pdi"/>
+  <File Type="PL-PDI-FILE" Name="modifeid_booth_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="modifeid_booth.rcfi"/>
+  <File Type="CFI_FILE" Name="modifeid_booth.cfi"/>
+  <File Type="RNPI_FILE" Name="modifeid_booth.rnpi"/>
+  <File Type="NPI_FILE" Name="modifeid_booth.npi"/>
+  <File Type="RBD_FILE" Name="modifeid_booth.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="modifeid_booth.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="modifeid_booth.sysdef"/>
+  <File Type="BG-BGN" Name="modifeid_booth.bgn"/>
+  <File Type="BG-DRC" Name="modifeid_booth.drc"/>
+  <File Type="RDI-RDI" Name="modifeid_booth.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="ROUTE-RQS" Name="modifeid_booth_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="modifeid_booth_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/modifeid_booth.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="modifeid_booth"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2024">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

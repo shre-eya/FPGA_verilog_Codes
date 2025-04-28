@@ -1,0 +1,8 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/FPGA_lab/practice/updown_async/updown_async.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+C:/FPGA_lab/practice/updown_async/updown_async.srcs/sim_1/new/T_ff.v,1740740081,verilog,,C:/FPGA_lab/practice/updown_async/updown_async.srcs/sim_1/new/updown_async.v,,T_ff,,,,,,,,
+C:/FPGA_lab/practice/updown_async/updown_async.srcs/sim_1/new/tb.v,1740740541,verilog,,,,tb,,,,,,,,
+C:/FPGA_lab/practice/updown_async/updown_async.srcs/sim_1/new/updown_async.v,1740739351,verilog,,C:/FPGA_lab/practice/updown_async/updown_async.srcs/sim_1/new/tb.v,,updown_async,,,,,,,,

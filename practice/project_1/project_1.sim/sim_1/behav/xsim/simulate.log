@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+Time=0 | A=0000 B=0000 | Sum=0000 Carry=0
+Time=60000 | A=1001 B=0110 | Sum=0000 Carry=0
+Time=100000 | A=1001 B=0110 | Sum=0001 Carry=0
+Time=110000 | A=1001 B=0110 | Sum=0011 Carry=0
+$finish called at time : 120 ns : File "C:/FPGA_lab/practice/project_1/project_1.srcs/sim_1/new/tb.v" Line 47

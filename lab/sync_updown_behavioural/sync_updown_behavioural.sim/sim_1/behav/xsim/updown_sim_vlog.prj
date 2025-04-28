@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../sync_updown_behavioural.srcs/sources_1/new/sync_updown_beh.v" \
+"../../../../sync_updown_behavioural.srcs/sim_1/new/updown_sim.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

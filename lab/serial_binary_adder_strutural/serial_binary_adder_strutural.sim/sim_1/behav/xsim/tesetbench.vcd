@@ -1,0 +1,380 @@
+$date
+   Mon Mar  3 19:59:56 2025
+$end
+
+$version
+  2024.1
+  $dumpfile ("tesetbench.vcd") 
+$end
+
+$timescale
+  1ps
+$end
+
+$scope module tesetbench $end
+$var reg 1 ! clk $end
+$var reg 1 " reset $end
+$var reg 1 # shift $end
+$var reg 4 $ A [3:0] $end
+$var reg 4 % B [3:0] $end
+$var wire 4 & Sum [3:0] $end
+$var wire 1 ' Carry_out $end
+$scope module uut $end
+$var wire 1 ( clk $end
+$var wire 1 ) reset $end
+$var wire 1 * shift $end
+$var wire 4 + A [3:0] $end
+$var wire 4 , B [3:0] $end
+$var wire 4 & Sum [3:0] $end
+$var wire 1 ' Carry_out $end
+$var wire 1 - serial_A $end
+$var wire 1 . serial_B $end
+$var wire 1 / serial_Sum $end
+$var wire 1 0 carry $end
+$var wire 1 1 carry_next $end
+$scope module PISO_A $end
+$var wire 1 ( clk $end
+$var wire 1 ) reset $end
+$var wire 1 * shift $end
+$var wire 4 + D [3:0] $end
+$var wire 1 - y $end
+$var wire 4 2 Q [3:0] $end
+$var wire 3 3 x [2:0] $end
+$scope module d1 $end
+$var wire 1 ( clk $end
+$var wire 1 4 D $end
+$var wire 1 ) reset $end
+$var reg 1 5 Q $end
+$upscope $end
+$scope module m1 $end
+$var wire 1 6 a $end
+$var wire 1 7 b $end
+$var wire 1 * sel $end
+$var wire 1 8 y $end
+$upscope $end
+$scope module d2 $end
+$var wire 1 ( clk $end
+$var wire 1 8 D $end
+$var wire 1 ) reset $end
+$var reg 1 9 Q $end
+$upscope $end
+$scope module m2 $end
+$var wire 1 : a $end
+$var wire 1 ; b $end
+$var wire 1 * sel $end
+$var wire 1 < y $end
+$upscope $end
+$scope module d3 $end
+$var wire 1 ( clk $end
+$var wire 1 < D $end
+$var wire 1 ) reset $end
+$var reg 1 = Q $end
+$upscope $end
+$scope module m3 $end
+$var wire 1 > a $end
+$var wire 1 ? b $end
+$var wire 1 * sel $end
+$var wire 1 @ y $end
+$upscope $end
+$scope module d4 $end
+$var wire 1 ( clk $end
+$var wire 1 @ D $end
+$var wire 1 ) reset $end
+$var reg 1 A Q $end
+$upscope $end
+$upscope $end
+$scope module PISO_B $end
+$var wire 1 ( clk $end
+$var wire 1 ) reset $end
+$var wire 1 * shift $end
+$var wire 4 , D [3:0] $end
+$var wire 1 . y $end
+$var wire 4 B Q [3:0] $end
+$var wire 3 C x [2:0] $end
+$scope module d1 $end
+$var wire 1 ( clk $end
+$var wire 1 D D $end
+$var wire 1 ) reset $end
+$var reg 1 E Q $end
+$upscope $end
+$scope module m1 $end
+$var wire 1 F a $end
+$var wire 1 G b $end
+$var wire 1 * sel $end
+$var wire 1 H y $end
+$upscope $end
+$scope module d2 $end
+$var wire 1 ( clk $end
+$var wire 1 H D $end
+$var wire 1 ) reset $end
+$var reg 1 I Q $end
+$upscope $end
+$scope module m2 $end
+$var wire 1 J a $end
+$var wire 1 K b $end
+$var wire 1 * sel $end
+$var wire 1 L y $end
+$upscope $end
+$scope module d3 $end
+$var wire 1 ( clk $end
+$var wire 1 L D $end
+$var wire 1 ) reset $end
+$var reg 1 M Q $end
+$upscope $end
+$scope module m3 $end
+$var wire 1 N a $end
+$var wire 1 O b $end
+$var wire 1 * sel $end
+$var wire 1 P y $end
+$upscope $end
+$scope module d4 $end
+$var wire 1 ( clk $end
+$var wire 1 P D $end
+$var wire 1 ) reset $end
+$var reg 1 Q Q $end
+$upscope $end
+$upscope $end
+$scope module carry_ff $end
+$var wire 1 ( clk $end
+$var wire 1 1 D $end
+$var wire 1 ) reset $end
+$var reg 1 R Q $end
+$upscope $end
+$scope module full_adder $end
+$var wire 1 - A $end
+$var wire 1 . B $end
+$var wire 1 0 Cin $end
+$var wire 1 / Sum $end
+$var wire 1 1 Cout $end
+$upscope $end
+$scope module SIPO_Sum $end
+$var wire 1 ( clk $end
+$var wire 1 ) reset $end
+$var wire 1 / D $end
+$var wire 4 & Q [3:0] $end
+$scope module d1 $end
+$var wire 1 ( clk $end
+$var wire 1 / D $end
+$var wire 1 ) reset $end
+$var reg 1 S Q $end
+$upscope $end
+$scope module d2 $end
+$var wire 1 ( clk $end
+$var wire 1 T D $end
+$var wire 1 ) reset $end
+$var reg 1 U Q $end
+$upscope $end
+$scope module d3 $end
+$var wire 1 ( clk $end
+$var wire 1 V D $end
+$var wire 1 ) reset $end
+$var reg 1 W Q $end
+$upscope $end
+$scope module d4 $end
+$var wire 1 ( clk $end
+$var wire 1 X D $end
+$var wire 1 ) reset $end
+$var reg 1 Y Q $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+
+#0
+$dumpvars
+0!
+1"
+0#
+b0 $
+b0 %
+b0 &
+0'
+0(
+1)
+0*
+b0 +
+b0 ,
+0-
+0.
+0/
+00
+01
+b0 2
+b0 3
+04
+05
+06
+07
+08
+09
+0:
+0;
+0<
+0=
+0>
+0?
+0@
+0A
+b0 B
+b0 C
+0D
+0E
+0F
+0G
+0H
+0I
+0J
+0K
+0L
+0M
+0N
+0O
+0P
+0Q
+0R
+0S
+0T
+0U
+0V
+0W
+0X
+0Y
+$end
+
+#5000
+1!
+1(
+
+#10000
+0!
+0"
+1#
+b101 $
+b11 %
+0(
+0)
+1*
+b101 +
+b11 ,
+04
+16
+0:
+1>
+0D
+0F
+1J
+1N
+
+#15000
+1!
+1(
+
+#20000
+0!
+0(
+
+#25000
+1!
+1(
+
+#30000
+0!
+0(
+
+#35000
+1!
+1(
+
+#40000
+0!
+0(
+
+#45000
+1!
+1(
+
+#50000
+0!
+b1001 $
+b110 %
+0(
+b1001 +
+b110 ,
+b1000 2
+b100 3
+14
+15
+06
+17
+18
+0:
+1>
+0D
+1F
+1J
+0N
+
+#55000
+1!
+1(
+
+#60000
+0!
+0(
+b1100 2
+b110 3
+19
+1;
+1<
+
+#65000
+1!
+1(
+
+#70000
+0!
+0(
+b1110 2
+b111 3
+1=
+1?
+1@
+
+#75000
+1!
+1(
+
+#80000
+0!
+0(
+1-
+1/
+b1111 2
+1A
+
+#85000
+1!
+1(
+
+#90000
+0!
+b1 &
+0(
+1S
+1T
+
+#95000
+1!
+1(
+
+#100000
+0!
+b11 &
+0(
+1U
+1V
+
+#105000
+1!
+1(

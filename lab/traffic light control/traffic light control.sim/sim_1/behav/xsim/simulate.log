@@ -1,0 +1,11 @@
+Time resolution is 1 ps
+Time=0| State = 00| rl_1 =00| rl_2 =10| y =0| g =0|
+Time=20000| State = 00| rl_1 =00| rl_2 =10| y =1| g =0|
+Time=25000| State = 01| rl_1 =01| rl_2 =10| y =1| g =0|
+Time=30000| State = 01| rl_1 =01| rl_2 =10| y =0| g =0|
+Time=35000| State = 10| rl_1 =10| rl_2 =00| y =0| g =0|
+Time=40000| State = 10| rl_1 =10| rl_2 =00| y =0| g =1|
+Time=45000| State = 11| rl_1 =10| rl_2 =01| y =0| g =1|
+Time=50000| State = 11| rl_1 =10| rl_2 =01| y =0| g =0|
+Time=55000| State = 00| rl_1 =00| rl_2 =10| y =0| g =0|
+$finish called at time : 75 ns : File "C:/FPGA_lab/lab/traffic light control/traffic light control.srcs/sim_1/new/tb.v" Line 42

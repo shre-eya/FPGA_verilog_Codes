@@ -1,0 +1,8 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/FPGA_lab/practice/4bitasync/4bitasync.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+C:/FPGA_lab/practice/4bitasync/4bitasync.srcs/sim_1/new/tb.v,1740729809,verilog,,,,tb,,,,,,,,
+C:/FPGA_lab/practice/4bitasync/4bitasync.srcs/sources_1/new/T_ff.v,1740730174,verilog,,C:/FPGA_lab/practice/4bitasync/4bitasync.srcs/sources_1/new/async4bit.v,,T_ff,,,,,,,,
+C:/FPGA_lab/practice/4bitasync/4bitasync.srcs/sources_1/new/async4bit.v,1740593610,verilog,,C:/FPGA_lab/practice/4bitasync/4bitasync.srcs/sim_1/new/tb.v,,async4bit,,,,,,,,

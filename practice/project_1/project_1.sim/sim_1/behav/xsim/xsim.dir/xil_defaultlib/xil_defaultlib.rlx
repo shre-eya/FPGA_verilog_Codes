@@ -1,0 +1,12 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/FPGA_lab/practice/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+C:/FPGA_lab/practice/project_1/project_1.srcs/sim_1/new/tb.v,1741017531,verilog,,,,tb,,,,,,,,
+C:/FPGA_lab/practice/project_1/project_1.srcs/sources_1/new/SBA.v,1741021804,verilog,,C:/FPGA_lab/practice/project_1/project_1.srcs/sources_1/new/dff.v,,SBA,,,,,,,,
+C:/FPGA_lab/practice/project_1/project_1.srcs/sources_1/new/dff.v,1741012699,verilog,,C:/FPGA_lab/practice/project_1/project_1.srcs/sources_1/new/fa.v,,dff,,,,,,,,
+C:/FPGA_lab/practice/project_1/project_1.srcs/sources_1/new/fa.v,1741011408,verilog,,C:/FPGA_lab/practice/project_1/project_1.srcs/sources_1/new/mux.v,,fa,,,,,,,,
+C:/FPGA_lab/practice/project_1/project_1.srcs/sources_1/new/mux.v,1741012107,verilog,,C:/FPGA_lab/practice/project_1/project_1.srcs/sources_1/new/piso.v,,mux,,,,,,,,
+C:/FPGA_lab/practice/project_1/project_1.srcs/sources_1/new/piso.v,1741015068,verilog,,C:/FPGA_lab/practice/project_1/project_1.srcs/sources_1/new/sipo.v,,piso,,,,,,,,
+C:/FPGA_lab/practice/project_1/project_1.srcs/sources_1/new/sipo.v,1741012699,verilog,,C:/FPGA_lab/practice/project_1/project_1.srcs/sim_1/new/tb.v,,sipo,,,,,,,,

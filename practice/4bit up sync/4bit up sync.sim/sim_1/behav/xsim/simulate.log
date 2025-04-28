@@ -1,0 +1,20 @@
+Time resolution is 1 ps
+$Time=0|Q=xxxx
+$Time=5000|Q=0000
+$Time=15000|Q=0001
+$Time=25000|Q=0010
+$Time=35000|Q=0011
+$Time=45000|Q=0100
+$Time=55000|Q=0101
+$Time=65000|Q=0110
+$Time=75000|Q=0111
+$Time=85000|Q=1000
+$Time=95000|Q=1001
+$Time=105000|Q=1010
+$Time=115000|Q=1011
+$Time=125000|Q=1100
+$Time=135000|Q=1101
+$Time=145000|Q=1110
+$Time=155000|Q=1111
+$Time=165000|Q=0000
+$finish called at time : 175 ns : File "C:/FPGA_lab/practice/4bit up sync/4bit up sync.srcs/sim_1/new/tb.v" Line 33

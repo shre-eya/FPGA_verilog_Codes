@@ -1,0 +1,8 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/FPGA_lab/lab/sequence_generator/sequence_generator.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+,,,,,,seq_generator_tb,,,,,,,,
+C:/FPGA_lab/lab/sequence_generator/sequence_generator.srcs/sources_1/new/D_FF.v,1737383673,verilog,,C:/FPGA_lab/lab/sequence_generator/sequence_generator.srcs/sources_1/new/seq_generator.v,,D_FF,,,,,,,,
+C:/FPGA_lab/lab/sequence_generator/sequence_generator.srcs/sources_1/new/seq_generator.v,1737383885,verilog,,C:/FPGA_lab/lab/sequence_generator/sequence_generator.srcs/sim_1/new/seq_generator_tb.v,,seq_generator,,,,,,,,

@@ -1,0 +1,8 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/FPGA_lab/lab/serial_binary_adder_strutural/serial_binary_adder_strutural.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+C:/FPGA_lab/lab/serial_binary_adder_strutural/serial_binary_adder_strutural.srcs/sim_1/new/tesetbench.v,1739262473,verilog,,,,tesetbench,,,,,,,,
+C:/FPGA_lab/lab/serial_binary_adder_strutural/serial_binary_adder_strutural.srcs/sources_1/new/fa.v,1739210158,verilog,,C:/FPGA_lab/lab/serial_binary_adder_strutural/serial_binary_adder_strutural.srcs/sources_1/new/serialbinaryadder.v,,fa,,,,,,,,
+C:/FPGA_lab/lab/serial_binary_adder_strutural/serial_binary_adder_strutural.srcs/sources_1/new/serialbinaryadder.v,1739262473,verilog,,C:/FPGA_lab/lab/serial_binary_adder_strutural/serial_binary_adder_strutural.srcs/sim_1/new/tesetbench.v,,D_FF;SerialBinaryAdder;mux;register_piso;register_sipo,,,,,,,,

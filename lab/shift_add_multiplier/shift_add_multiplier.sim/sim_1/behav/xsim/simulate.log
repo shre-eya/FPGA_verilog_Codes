@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+TIme|M|Q|AQ(product)
+                   0|0011|0010|00000110(  6)
+               10000|0101|0011|00001111( 15)
+$finish called at time : 20 ns : File "C:/FPGA_lab/lab/shift_add_multiplier/shift_add_multiplier.srcs/sim_1/new/tb.v" Line 36

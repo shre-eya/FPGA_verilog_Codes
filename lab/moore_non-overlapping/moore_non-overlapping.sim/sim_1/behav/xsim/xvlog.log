@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/FPGA_lab/lab/moore_non-overlapping/moore_non-overlapping.srcs/sources_1/new/seq.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module seq
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/FPGA_lab/lab/moore_non-overlapping/moore_non-overlapping.srcs/sim_1/new/tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/FPGA_lab/lab/moore_non-overlapping/moore_non-overlapping.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

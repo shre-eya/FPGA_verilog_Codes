@@ -1,0 +1,20 @@
+Time resolution is 1 ps
+Time=0 | Q=xxxx
+Time=10000 | Q=0000
+Time=30000 | Q=0001
+Time=40000 | Q=0010
+Time=50000 | Q=0011
+Time=60000 | Q=0100
+Time=70000 | Q=0101
+Time=80000 | Q=0110
+Time=90000 | Q=0111
+Time=100000 | Q=1000
+Time=110000 | Q=1001
+Time=120000 | Q=1010
+Time=130000 | Q=1011
+Time=140000 | Q=1100
+Time=150000 | Q=1101
+Time=160000 | Q=1110
+Time=170000 | Q=1111
+Time=180000 | Q=0000
+$finish called at time : 190 ns : File "C:/FPGA_lab/lab/async_4bit_up/async_4bit_up.srcs/sources_1/new/async_up_tb.v" Line 42
